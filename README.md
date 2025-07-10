@@ -90,7 +90,3 @@ Si el equipo tiene activado el Inicio Rápido, es posible que el tiempo encendid
 Para obtener datos más precisos, puedes desactivar el inicio rápido desde:
 
 Panel de control → Opciones de energía → Elegir el comportamiento del botón de inicio/apagado → Cambiar configuración no disponible actualmente → Desmarcar “Activar inicio rápido”
-
-=======
-# ScriptBaterias
->>>>>>> 37b08aea25e4c2315029d2eb6e2cc420995ca18c
