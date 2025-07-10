@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SC_AUDITPOWER
 
 `SC_AUDITPOWER.ps1` es un script en PowerShell diseñado para auditar información relacionada con el uso de energía y actividad reciente del sistema operativo Windows 11. Su propósito es facilitar el monitoreo de aspectos clave del equipo, como el tipo de apagado más reciente, el tiempo encendido y los ciclos de carga de la batería.
