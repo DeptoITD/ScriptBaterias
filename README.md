@@ -57,9 +57,8 @@ powershell -ExecutionPolicy Bypass -File .\SC_AUDITPOWER.ps1
 
 1. Se debe guardar el script en la ruta deseada.
 
-Por ejemplo:
+> Por ejemplo: `C:\Users\nombre\Desktop\SC_AUDITPOWER.ps1`
 
-C:\Users\nombre\Desktop\SC_AUDITPOWER.ps1
 
 2. Posteriormente a esto, se debe abrir una terminal de Powershell con privilegios de administrador.
 
