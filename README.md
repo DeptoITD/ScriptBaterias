@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SC_AUDITPOWER
 
 `SC_AUDITPOWER.ps1` es un script en PowerShell diseñado para auditar información relacionada con el uso de energía y actividad reciente del sistema operativo Windows 11. Su propósito es facilitar el monitoreo de aspectos clave del equipo, como el tipo de apagado más reciente, el tiempo encendido y los ciclos de carga de la batería.
@@ -90,3 +91,6 @@ Para obtener datos más precisos, puedes desactivar el inicio rápido desde:
 
 Panel de control → Opciones de energía → Elegir el comportamiento del botón de inicio/apagado → Cambiar configuración no disponible actualmente → Desmarcar “Activar inicio rápido”
 
+=======
+# ScriptBaterias
+>>>>>>> 37b08aea25e4c2315029d2eb6e2cc420995ca18c
